@@ -71,7 +71,7 @@ let songs = [
     { songName: "Cold - NEFFEX", filePath: "newSongs/Cold.m4a", coverPath: "newCovers/Cold.jpg", duration: "3:06", lyrics: songLyrics[0].Cold  },
     { songName: "Destiny - NEFFEX", filePath: "newSongs/Destiny.m4a", coverPath: "newCovers/Destiny.jpg", duration: "3:26", lyrics: songLyrics[0].Destiny  },
     { songName: "Fight Back - NEFFEX", filePath: "newSongs/Fight Back.m4a", coverPath: "newCovers/Fight Back.jpg", duration: "3:16", lyrics: songLyrics[0].FightBack  },
-    { songName: "Grateful - NEFFEX", filePath: "newSongs/Grateful.m4a", coverPath: "newCovers/GrateFul.jpg", duration: "3:02", lyrics: songLyrics[0].Grateful  },
+    { songName: "Grateful - NEFFEX", filePath: "newSongs/Grateful.m4a", coverPath: "newCovers/Grateful.jpg", duration: "3:02", lyrics: songLyrics[0].Grateful  },
     { songName: "Never Give Up - NEFFEX", filePath: "newSongs/Never Give Up.m4a", coverPath: "newCovers/Never Give Up.jpg", duration: "4:11", lyrics: songLyrics[0].NeverGiveUp  },
 ]
 
